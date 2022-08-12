@@ -30,7 +30,7 @@ body {
 
 .hero {
   grid-area: hero;
-  background-image: url(img/hero-1.jpg);
+  background: url(img/hero-1.jpg);
   min-height: 300px;
   padding: 50px;
   background-position: center;
@@ -51,14 +51,14 @@ body {
 
 .feature-1 {
   grid-area: feature-1;
-  background-image: url(img/gmbr-1.jpg);
+  background: url(img/gmbr-1.jpg);
   background-position: center;
   background-size: cover;
 }
 
 .feature-2 {
   grid-area: feature-2;
-  background-image: url(img/gmbr-2.jpg);
+  background: url(img/gmbr-2.jpg);
   background-position: center;
   background-size: cover;
 }
